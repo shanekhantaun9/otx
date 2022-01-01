@@ -6,7 +6,7 @@
 
 
 ## Description
-- Have you heard about AlienVault Open Threat Exchange (OTX)?. You should use this tool in your bug hunting journey and this tool can help you to extract sensitive information endpoints.
+- This tool is base on AlienVault Open Threat Exchange (OTX)? and this tool can help you to extract all the urls endpoints which can be vulnerable or leak sensitive informations etc.
 
 ## Installation
 ```
